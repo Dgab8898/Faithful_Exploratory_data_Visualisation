@@ -18,7 +18,7 @@ plot(faithful
 None
 
 ## Contributing
-Any contribution or pull request is welcome.
+Any pull request is welcome. For major changes , please open an issue. First discuss what you would like to change. please make sure to update tests as appropriate
 
 ## Licence
 Copy Right(C) 2021 David Gabriel

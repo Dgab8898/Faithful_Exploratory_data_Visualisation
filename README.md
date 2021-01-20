@@ -1,4 +1,4 @@
-# Statistical analysis_Old faithful
+# Data Visualisation_Old faithful
 
 This is a simple  exmple of exploratory data visualisation of Old faithful datasets using R programming packages. The [Old faith](https://en.wikipedia.org/wiki/Old_Faithful) is geyser cone located in Wyoming USA. It is a highly predictable [geothermal](https://en.wikipedia.org/wiki/Geothermal_gradient) feature and has erupted every 44 minutes to two hours since 2000. 
 

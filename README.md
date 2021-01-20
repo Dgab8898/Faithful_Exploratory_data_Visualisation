@@ -1,6 +1,6 @@
 # Statistical analysis_exploratory_data_visualisation_Old faithful
 
-This is a simple  exmple of exploratory data visualisation of faithful datasets using R programming packages. old faith[https://en.wikipedia.org/wiki/Old_Faithful is gresyer cone located in Wyoming USA]. 
+This is a simple  exmple of exploratory data visualisation of faithful datasets using R programming packages. [old faith](https://en.wikipedia.org/wiki/Old_Faithful is gresyer cone located in Wyoming USA). 
 
 Data sources: the datasets are available in R Studio.
 
